@@ -1,0 +1,19 @@
+h1{
+	color: #D4AF37;
+}
+h2{
+	color: #FFDF00;
+}
+body {
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+}
+body {
+ background-image: url("clouds2.jpeg");
+min-height: 700px;
+    background-size: cover;
+    background-position: center center;
+
+}
+
